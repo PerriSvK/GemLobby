@@ -1,0 +1,9 @@
+spawn:
+  world: world
+  x: 10
+  y: 65
+  z: 10
+  yaw: 0.0
+  pitch: 0.0
+join-msg:
+  - ""
